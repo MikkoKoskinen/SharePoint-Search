@@ -43,12 +43,23 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Display Templates\Control_SampleNews.html" />
+    <Content Include="Display Templates\Elements.xml" />
+    <Content Include="Display Templates\Item_SampleNews.html" />
+    <Content Include="Styles\Elements.xml" />
+    <Content Include="Styles\SampleNews.css" />
+    <None Include="Display Templates\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{eb6c4449-3f24-46c0-857d-fefb0daa1bc0}</SharePointProjectItemId>
+    </None>
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{d916883d-8de3-4f01-90e7-c85d71cc17b9}</SharePointProjectItemId>
     </None>
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="Styles\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{2d72a603-3503-479e-80f1-eabb87355af6}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-1.9.1.min.map" />

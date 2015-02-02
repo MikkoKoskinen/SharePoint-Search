@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Display Templates">
+    <File Path="Display Templates\Control_SampleNews.html" Url="Display Templates/Control_SampleNews.html" ReplaceContent="TRUE" />
+    <File Path="Display Templates\Item_SampleNews.html" Url="Display Templates/Item_SampleNews.html" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

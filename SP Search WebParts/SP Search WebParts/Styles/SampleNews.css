@@ -1,0 +1,12 @@
+.newsImage{
+	float: left;
+	margin: 8px;
+}
+
+.newsBody{
+	max-width: 650px;
+}
+
+.mainNews{
+	min-height: 200;
+}
